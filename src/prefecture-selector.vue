@@ -7,11 +7,7 @@ export default defineComponent({
   props: {
     visibility: {
       type: Boolean,
-      default: false,
-    },
-    transitionDuration: {
-      type: String,
-      default: "200ms",
+      required: true,
     },
   },
   components: { PrefectureSvg },
@@ -31,11 +27,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div
-    class="container"
-    :class="{ 'display-block': visibility }"
-    :style="{ 'transition-duration': transitionDuration }"
-  >
+  <div class="container" :class="{ 'display-block': visibility }">
     <div class="overlay">
       <div class="content">
         <div>
