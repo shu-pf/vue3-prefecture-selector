@@ -1,7 +1,7 @@
 {
-  "name": "prefecture-selector",
+  "name": "vue3-prefecture-selector",
   "version": "1.0.0",
-  "description": "Makes it easy to select a prefecture in Japan.",
+  "description": "都道府県選択を簡単に行う為のモーダルコンポーネントです。",
   "main": "dist/prefecture-selector.ssr.js",
   "browser": "dist/prefecture-selector.esm.js",
   "module": "dist/prefecture-selector.esm.js",
