@@ -1,6 +1,6 @@
 {
   "name": "vue3-prefecture-selector",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "都道府県選択を簡単に行う為のモーダルコンポーネントです。",
   "main": "dist/prefecture-selector.ssr.js",
   "browser": "dist/prefecture-selector.esm.js",
@@ -54,6 +54,10 @@
   },
   "engines": {
     "node": ">=12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shu-pf/vue3-prefecture-selector"
   },
   "license": "MIT"
 }
