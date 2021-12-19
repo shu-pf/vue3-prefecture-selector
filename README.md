@@ -4,6 +4,8 @@
 
 ## DEMO
 
+![デモ動画](https://user-images.githubusercontent.com/61904065/146673596-efc7c5c9-eca3-4b5f-8ebf-ee77f1c43e5c.gif)
+
 [Codesandbox](https://codesandbox.io/s/vue3-prefecture-selector-demo-6od13)
 
 ## Features
